@@ -1,0 +1,4 @@
+---
+default: -p html_report -c 
+bdd: --format pretty
+html_report: --format html -out=reports/relatorio.html
